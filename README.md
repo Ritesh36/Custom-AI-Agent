@@ -22,11 +22,12 @@ This project implements a **StateGraph** workflow with the following components:
 ### Flow Diagram
 <img width="1536" height="1024" alt="Image" src="https://github.com/user-attachments/assets/f812ae22-55b4-4293-aa04-cc0d890fc7cf" />
 
-##🛠️ Technology Stack
+## 🛠️ Technology Stack
 
-LangGraph: For building the stateful AI workflow
-LangChain: Framework for LLM application development
-Groq API: Fast inference with openai/gpt-oss-20b model
-Tavily Search: Web search API for real-time information
-Node.js: Runtime environment
-Readline: Interactive command-line interface
+- **LangGraph**: For building the stateful AI workflow
+- **LangChain**: Framework for LLM application development
+- **Groq API**: Fast inference with `openai/gpt-oss-20b` model
+- **Tavily Search**: Web search API for real-time information
+- **Node.js**: Runtime environment
+- **Readline**: Interactive command-line interface## 🛠️ Technology Stack
+
